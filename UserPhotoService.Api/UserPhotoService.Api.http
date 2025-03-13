@@ -1,0 +1,6 @@
+@UserPhotoService.Api_HostAddress = http://localhost:5140
+
+GET {{UserPhotoService.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
